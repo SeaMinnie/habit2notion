@@ -1,5 +1,35 @@
 [
     {
+        "id": "67c23221ebbefa0000000064",
+        "habitId": "67c2321bebbefa000000005e",
+        "checkinStamp": 20250301,
+        "checkinTime": "2025-02-28T22:01:05.000+0000",
+        "opTime": "2025-02-28T22:01:05.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67c3ec63ebbefa0000000093",
+        "habitId": "67c2321bebbefa000000005e",
+        "checkinStamp": 20250302,
+        "checkinTime": "2025-03-02T05:28:03.000+0000",
+        "opTime": "2025-03-02T05:28:03.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67c4ec00ebbefa0000000081",
+        "habitId": "67c2321bebbefa000000005e",
+        "checkinStamp": 20250303,
+        "checkinTime": "2025-03-02T23:38:40.000+0000",
+        "opTime": "2025-03-02T23:38:40.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
         "id": "67e0b38452508fa5f451243f",
         "habitId": "67c2321bebbefa000000005e",
         "checkinStamp": 20250324,
@@ -60,31 +90,11 @@
         "status": 2
     },
     {
-        "id": "67c23221ebbefa0000000064",
+        "id": "67e6ab87ebbefa0000000043",
         "habitId": "67c2321bebbefa000000005e",
-        "checkinStamp": 20250301,
-        "checkinTime": "2025-02-28T22:01:05.000+0000",
-        "opTime": "2025-02-28T22:01:05.000+0000",
-        "value": 1.0,
-        "goal": 1.0,
-        "status": 2
-    },
-    {
-        "id": "67c3ec63ebbefa0000000093",
-        "habitId": "67c2321bebbefa000000005e",
-        "checkinStamp": 20250302,
-        "checkinTime": "2025-03-02T05:28:03.000+0000",
-        "opTime": "2025-03-02T05:28:03.000+0000",
-        "value": 1.0,
-        "goal": 1.0,
-        "status": 2
-    },
-    {
-        "id": "67c4ec00ebbefa0000000081",
-        "habitId": "67c2321bebbefa000000005e",
-        "checkinStamp": 20250303,
-        "checkinTime": "2025-03-02T23:38:40.000+0000",
-        "opTime": "2025-03-02T23:38:40.000+0000",
+        "checkinStamp": 20250328,
+        "checkinTime": "2025-03-28T14:00:39.000+0000",
+        "opTime": "2025-03-28T14:00:39.000+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
