@@ -100,6 +100,16 @@
         "status": 2
     },
     {
+        "id": "6819736952507a7412475a3e",
+        "habitId": "677c6b18ebbefa00000000ed",
+        "checkinStamp": 20250430,
+        "checkinTime": "2025-05-06T02:26:49.214+0000",
+        "opTime": "2025-05-06T02:26:49.214+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
         "id": "680a58a3ebb7f7000000011b",
         "habitId": "677c6b18ebbefa00000000ed",
         "checkinStamp": 20250424,
@@ -795,6 +805,66 @@
         "checkinStamp": 20250303,
         "checkinTime": "2025-03-02T23:38:43.000+0000",
         "opTime": "2025-03-02T23:38:43.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "6819736652507a7412475a28",
+        "habitId": "677c6b18ebbefa00000000ed",
+        "checkinStamp": 20250501,
+        "checkinTime": "2025-05-06T02:26:46.123+0000",
+        "opTime": "2025-05-06T02:26:46.123+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "6819736452507a7412475a16",
+        "habitId": "677c6b18ebbefa00000000ed",
+        "checkinStamp": 20250502,
+        "checkinTime": "2025-05-06T02:26:44.065+0000",
+        "opTime": "2025-05-06T02:26:44.065+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "6819736052507a7412475a01",
+        "habitId": "677c6b18ebbefa00000000ed",
+        "checkinStamp": 20250503,
+        "checkinTime": "2025-05-06T02:26:40.831+0000",
+        "opTime": "2025-05-06T02:26:40.831+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "6819735c52507a74124759de",
+        "habitId": "677c6b18ebbefa00000000ed",
+        "checkinStamp": 20250504,
+        "checkinTime": "2025-05-06T02:26:36.264+0000",
+        "opTime": "2025-05-06T02:26:36.264+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "6819735252507a74124759b5",
+        "habitId": "677c6b18ebbefa00000000ed",
+        "checkinStamp": 20250505,
+        "checkinTime": "2025-05-06T02:26:26.964+0000",
+        "opTime": "2025-05-06T02:26:26.964+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "6819734e52507a74124759a3",
+        "habitId": "677c6b18ebbefa00000000ed",
+        "checkinStamp": 20250506,
+        "checkinTime": "2025-05-06T02:26:22.844+0000",
+        "opTime": "2025-05-06T02:26:22.844+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
