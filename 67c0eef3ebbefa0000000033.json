@@ -260,11 +260,31 @@
         "status": 2
     },
     {
+        "id": "683dcb96ebb7f70000000080",
+        "habitId": "67c0eef3ebbefa0000000033",
+        "checkinStamp": 20250530,
+        "checkinTime": "2025-06-02T16:04:38.000+0000",
+        "opTime": "2025-06-02T16:04:38.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
         "id": "67f28876ebbefa000000007a",
         "habitId": "67c0eef3ebbefa0000000033",
         "checkinStamp": 20250403,
         "checkinTime": "2025-04-06T13:58:14.000+0000",
         "opTime": "2025-04-06T13:58:14.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "683dcb93ebb7f70000000070",
+        "habitId": "67c0eef3ebbefa0000000033",
+        "checkinStamp": 20250531,
+        "checkinTime": "2025-06-02T16:04:35.000+0000",
+        "opTime": "2025-06-02T16:04:35.000+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
@@ -625,6 +645,36 @@
         "checkinStamp": 20250228,
         "checkinTime": "2025-02-27T23:02:25.000+0000",
         "opTime": "2025-02-27T23:02:25.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "683dcb8febb7f7000000005b",
+        "habitId": "67c0eef3ebbefa0000000033",
+        "checkinStamp": 20250601,
+        "checkinTime": "2025-06-02T16:04:31.000+0000",
+        "opTime": "2025-06-02T16:04:31.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "683dcb8cebb7f70000000047",
+        "habitId": "67c0eef3ebbefa0000000033",
+        "checkinStamp": 20250602,
+        "checkinTime": "2025-06-02T16:04:28.000+0000",
+        "opTime": "2025-06-02T16:04:28.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "683dcb8aebb7f7000000003f",
+        "habitId": "67c0eef3ebbefa0000000033",
+        "checkinStamp": 20250603,
+        "checkinTime": "2025-06-02T16:04:26.000+0000",
+        "opTime": "2025-06-02T16:04:26.000+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
