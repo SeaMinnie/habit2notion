@@ -650,6 +650,26 @@
         "status": 2
     },
     {
+        "id": "684b892b3196ff52808237c0",
+        "habitId": "67c0eef3ebbefa0000000033",
+        "checkinStamp": 20250612,
+        "checkinTime": "2025-06-13T02:12:59.276+0000",
+        "opTime": "2025-06-13T02:12:59.276+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "684b892e3196ff52808237de",
+        "habitId": "67c0eef3ebbefa0000000033",
+        "checkinStamp": 20250613,
+        "checkinTime": "2025-06-13T02:13:02.413+0000",
+        "opTime": "2025-06-13T02:13:02.413+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
         "id": "68464b604fd6ff524dcca0e4",
         "habitId": "67c0eef3ebbefa0000000033",
         "checkinStamp": 20250608,
@@ -675,6 +695,16 @@
         "checkinStamp": 20250610,
         "checkinTime": "2025-06-10T04:09:20.000+0000",
         "opTime": "2025-06-10T04:09:20.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "684b89283196ff528082379c",
+        "habitId": "67c0eef3ebbefa0000000033",
+        "checkinStamp": 20250611,
+        "checkinTime": "2025-06-13T02:12:56.613+0000",
+        "opTime": "2025-06-13T02:12:56.613+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
